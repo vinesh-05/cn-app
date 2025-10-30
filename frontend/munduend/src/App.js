@@ -3,7 +3,8 @@ import './index.css'; // We'll use this for styling
 
 // --- CONFIGURATION ---
 // Make sure this matches the address of your running FastAPI server
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://cn-app-hhdw.onrender.com';
+
 // ---------------------
 
 function App() {

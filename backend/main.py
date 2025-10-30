@@ -12,7 +12,7 @@ app = FastAPI()
 origins = [
     "http://localhost:3000",
     "http://localhost",
-    "https://your-vercel-app-name.vercel.app",  # 👈 add your actual Vercel URL
+    "https://cn-app-bay.vercel.app",  # 👈 add your actual Vercel URL
 ]
 
 app.add_middleware(
